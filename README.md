@@ -1,5 +1,5 @@
 
-- Interested in Python, Vue.js, home automation, and webservices
+- Interested in Python, Vue.js, home automation, and 3D printing
 - Learning C++
 - Contact: matthewj301@gmail.com
 
