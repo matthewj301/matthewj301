@@ -1,7 +1,7 @@
 
-- Interested in Python, Vue.js, home automation, and 3D printing
-- Learning C++
+- Interested in Python, C++, home automation, 3D printing, and functional model design
 - Contact: matthewj301@gmail.com
+- 3D designs: https://www.printables.com/@MatthewJohnso_437074
 
 <!---
 matthewj301/matthewj301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
